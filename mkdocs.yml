@@ -1,0 +1,5 @@
+site_name: "Promoting Health Aging through Semantic Enrichment of Solitude Research (PHASES)""
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
